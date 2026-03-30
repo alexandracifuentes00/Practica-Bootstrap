@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}   
+
+.btn-moradito{
+    background-color: #6f42c1;
+    color: aliceblue;
+    box-shadow: 3px 3px 10px rgb(172, 48, 48);
+}
+
+.btn-moradito:hover{
+    background-color: #815ec4;
+    color: aliceblue;
+}
